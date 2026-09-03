@@ -2,6 +2,6 @@
 
 [打开游戏 / Play](https://kkzky.github.io/click-the-button-web/)
 
-这里存放可运行的静态网页文件。从点击获得 1 分开始，用元按钮解锁 AC 生产链与升级。支持视角拖动缩放、中英文、浏览器本地存档和最多两小时离线结算。页面中的试玩链接固定对应一个游戏版本。
+从一个红色按钮开始的极简增量游戏。发现 AC 生产链、可拖动 AC、自动扩建与献祭后的新组合。时间加速只在生产框内生效。支持中英文与固定版本试玩链接。
 
-This repository contains the built website. Start with one point per click, then use the meta button to discover an AC production chain and upgrades. Pan and zoom the production area. Chinese and English, local saves and up to two hours of offline production are supported. Version links keep their original game build.
+A minimal incremental game. Discover production chains, portable auto clickers, expanding lines and a new combination after a reset. Time upgrades affect only the production frame. Chinese, English and permanent version links are included.
